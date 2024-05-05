@@ -1,6 +1,6 @@
 function Footer() {
    return (
-      <footer className="footer p-10 bg-neutral text-neutral-content">
+      <footer className="xl:rounded-t-xl footer p-10 bg-neutral text-neutral-content">
         <nav>
           <header className="footer-title">Stuff</header>
           <a href="./" className="link link-hover">Home</a>
