@@ -1,5 +1,7 @@
 This is a [next.js](https://nextjs.org/) app with [typescript](https://media.tenor.com/A5MU1oSl95EAAAAM/furry-boy-kisser.gif) and a lil' bit of [DaisyUI](https://daisyui.com/) ([tailwindcss](https://tailwindcss.com/))
 
+[link](https://rngvalue.github.io/test-nextjs-app-maybe-idk/)
+
 ## How to run on your machine :3
 
 First, run the development server:
